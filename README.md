@@ -1,7 +1,7 @@
 ### LEARNING TO USE GIT AND GITHUB
 >In this repository, I will create a simple guide of my progress learning about Git and GitHub. I will include syntax, key concepts and other important things about the use these platforms. 
 
->*This repository is actually in progress.
+>*This repository is actually in progress. CHANGE?
 
 **Content List**
 - How to install and configure git in a Windows device.
