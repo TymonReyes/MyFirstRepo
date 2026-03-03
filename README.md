@@ -21,7 +21,7 @@ And install the aplication on your laptop.
 # Git sintax
 
 **git --version**  = View de Git Version
-**git config --global user.name "(username)" ** = Create an user in Git
+**git config --global user.name "(username)"** = Create an user in Git
 **git config --global user.email (gmail)** = Log your email in Git
 **git config --global -e** / View the git configuration on your text editor (VS Code in this case)
 **git config -h** / ver opciones de configuración.
